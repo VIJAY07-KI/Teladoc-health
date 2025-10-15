@@ -1,0 +1,6 @@
+ignoredBuiltDependencies:
+  - '@clerk/shared'
+  - '@sentry/cli'
+  - '@tailwindcss/oxide'
+  - sharp
+  - unrs-resolver
